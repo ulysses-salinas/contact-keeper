@@ -2,7 +2,7 @@
 
 ## Overview
 
-MERN Stack Application that collects contacts and contact information
+MERN Stack Application to create, store, and edit contacts and contact information.
 
 ### Technologies in Use
 
