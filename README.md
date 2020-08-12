@@ -1,10 +1,8 @@
-
-
 # Contact Keeper
 
 ## Overview
 
-MERN Stack Application that allows a user to add and edit contacts and contact information.
+MERN Stack Application that collects contacts and contact information
 
 ### Technologies in Use
 
