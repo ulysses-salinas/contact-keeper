@@ -2,7 +2,7 @@
 
 ## Overview
 
-MERN Stack Application - Contact Keeper with CRUD capabilities. This application simply allows the user to 
+MERN Stack Application - Contact Keeper with CRUD capabilities. This application simply allows the user to
 register, login, and manage contacts. This application relies heavily on the useContext hook, as well as the useReducer hook for state management. JSON Web Tokens are utilized for authentication and protected routes.
 
 ### Technologies in Use
@@ -16,4 +16,4 @@ register, login, and manage contacts. This application relies heavily on the use
 
 ### See it work:
 
-[Contact Keeper](https://mysterious-beyond-59548.herokuapp.com/login)
+[Contact Keeper](https://mysterious-beyond-59548.herokuapp.com/register)
