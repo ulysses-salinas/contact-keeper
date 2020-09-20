@@ -2,7 +2,7 @@
 
 ## Overview
 
-MERN Stack Application to create, store, and edit contacts and contact information.
+MERN Stack Application - Contact Keeper with CRUD capabilities.
 
 ### Technologies in Use
 
@@ -10,3 +10,8 @@ MERN Stack Application to create, store, and edit contacts and contact informati
 - [Express](https://expressjs.com/) for API routing
 - [React](https://reactjs.org/) for UI design
 - [Node.js](https://nodejs.org/en/)
+- [Heroku](https://www.heroku.com/) for deployment
+
+### See it work:
+
+[Contact-Keeper](https://mysterious-beyond-59548.herokuapp.com/login)
