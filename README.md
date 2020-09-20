@@ -2,8 +2,14 @@
 
 ## Overview
 
-MERN Stack Application - Contact Keeper with CRUD capabilities. This application simply allows the user to
-register, login, and manage contacts. This application relies heavily on the useContext hook, as well as the useReducer hook for state management. JSON Web Tokens are utilized for authentication and protected routes.
+Contact Keeper is a MERN stack application that utilizes MongoDB, Express, React, and Nodejs.
+Implementing the CRUD model, this simple application allows the user to create and manage contacts.
+JSON Web Tokens are employed for authentication and in turn, support protected routes. This application
+calls for users to register, with the ability to log in to their private collection of both personal and professional
+contacts. This application relies heavily on the useContext hook to seamlessly incorporate and integrate all the
+available components within React, as well as the useReducer hook for state management. The nature of the MERN stack model, and
+this application specifically, has produced an environment for a non-SQL database to retain data. This cloud based
+approach allows the deployment of this application to scale via hosting services, which in this demonstration, is Heroku.
 
 ### Technologies in Use
 
