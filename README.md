@@ -16,7 +16,7 @@ approach allows the deployment of this application to scale via hosting services
 - [mongoDB](https://www.mongodb.com/) for data retention
 - [Express](https://expressjs.com/) for API routing
 - [React](https://reactjs.org/) for UI design
-- [Node.js](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/en/) for runtime
 - [JSON Web Tokens](https://jwt.io) for authentication
 - [Heroku](https://www.heroku.com/) for deployment
 
